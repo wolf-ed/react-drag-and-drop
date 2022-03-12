@@ -1,5 +1,5 @@
 import './index.css';
-import { Fragment } from 'react';
+import React from 'react';
 import Board from './components/Board';
 import Card from './components/Card';
 
